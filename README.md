@@ -1,2 +1,1 @@
-# slide-infinit-java-script
- 
+# infinity-slide
